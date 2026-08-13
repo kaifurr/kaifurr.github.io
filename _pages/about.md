@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[LinkedIn](https://www.linkedin.com/in/kaifur-rashed)/</p>
+    <p>/</p>
     <p>1 University Avenue</p>
     <p>Lowell, MA 01854</p>
 
@@ -39,10 +39,12 @@ I take polymers and composites from lab-bench characterization through to manufa
  
 Some outcomes from that approach:
  
-→ 6 years developing and qualifying [high-performance polymer] (PEEK, PEKK, PEI) composites for extrusion-based [additive manufacturing]
-→ [Supervised 15+ staff] on data-driven forecasting projects
+→ 6 years developing and qualifying high-performance polymer (PEEK, PEKK, PEI) composites for extrusion-based additive manufacturing
+
+→ Supervised 15+ staff on data-driven forecasting projects
+
 → Collaborated across Harvard Medical School, Johns Hopkins Medicine, RMIT University, Deakin University, Swinburne University, University of Connecticut, Vanderbilt University, TU Delft, CGI Space, Australia's national lab (CSIRO), and Australian Nuclear Science and Technology Organisation
  
-Who I help: teams building materials or manufacturing processes for [aerospace, space, defense, or medical-device] applications who need a material to actually survive its intended environment ,not just print cleanly on a bench.
+Who I help: teams building materials or manufacturing processes for aerospace, space, defense, or medical-device applications who need a material to actually survive its intended environment ,not just print cleanly on a bench.
  
-If you're building a materials or process R&D team and want someone who treats ["it printed"] as the start of the conversation, not the end - [let's connect](https://www.linkedin.com/in/kaifur-rashed).
+If you're building a materials or process R&D team and want someone who treats "it printed" as the start of the conversation, not the end - [let's connect](https://www.linkedin.com/in/kaifur-rashed).
