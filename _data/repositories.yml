@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kaifurr
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - carter-brett-a/ROO-Software
+  - kaifurr/kaifurr.github.io
+
