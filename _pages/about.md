@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral Research Associate</a>. UMass Lowell
+subtitle: <a href='#'>Composite Materials Scientist</a>. DOE-driven process optimization
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>/</p>
+    <p>kaifur_rashed@uml.edu</p>
     <p>1 University Avenue</p>
     <p>Lowell, MA 01854</p>
 
