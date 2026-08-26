@@ -90,43 +90,20 @@ cv:
         start_date: 2019
         end_date: 2023
 
-    Volunteer:
-      - company: Springer Nature
-        position: Peer Reviewer
-        location: Virtual
-        start_date: 2022-12-01
-        end_date: present
-        summary: Reviewed manuscripts for various journals
-        
-      - company: Nature Portfolio
-        position: Peer Reviewer
-        location: Virtual
-        start_date: 2023-12-01
-        end_date: 2024-01-01
-        summary: Reviewed manuscripts for Scientific Reports Journal
-        
-      - company: RMIT University
-        position: Peer Mentor
-        location: Melbourne, Australia
-        start_date: 2020-03-01
-        end_date: 2023-06-01
-        summary: Helped other graduate students gain subject matter expertise
-
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Best PhD Poster Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Kaifur Rashed, Abdullah Kafi, Ranya Simons, Stuart Bateman"
+        date: 2022-11-01
+        awarder: RMIT STEM Early and Mid-Career Academics Symposium
+        summary: "Interdisciplinary Connections and Opportunities” sponsored by Thermo Fisher Scientific. Awarded a cash prize and certificate in recognition of outstanding research and presentation skills.
 
-      - title: Max Planck Medal
+      - title: CSIRO Top Up Scholarship
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "CSIRO"
+        date: 2019
+        awarder: CSIRO
+        summary: Received an annual stipend of AU$10,000 in addition to government funding for equipment and materials during my candidature.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -154,11 +131,31 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Materials Science
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        keywords: "Biocompatible polymers, High-performance polymers and composites, polymer modification, polymer blends, composite formulation, structure-property relationships"
+      
+      - name: Materials Characterization
+        icon: fa-solid fa-hashtag
+        keywords: "Mechanical, Nanoindentation, DSC, TGA, Rheology, MFI, TMA, DMA, FTIR, XRD, Optical and Contact System Profilometry, Optical microscopy, XPS, SEM, EDS, TEM, AFM, Micro CT, Hyperflash, Electrical Conductivity"
+      
+      - name: Manufacturing
+        icon: fa-solid fa-hashtag
+        keywords: "Injection and Compression Moulding, Polymer and Composite Extrusion, Compounding and processing of thermoplastics and thermosets, FDM, FGF, MJF & SLA 3D Printing"
+     
+      - name: Design/Simulation
+        icon: fa-solid fa-hashtag
+        keywords: "Solidworks, Inventor, ANSYS, Abaqus, nTopology, slicing software"
+     
+      - name: Data Analysis & Visualization
+        icon: fa-solid fa-hashtag
+        keywords: "Excel, Tableau, Minitab, Python, Origin, ImageJ, Astro ImageJ"
+     
+      - name: Programming Language
+        icon: fa-solid fa-hashtag
+        keywords: "MATLAB, Python (Multiprocessing, Threading, NumPy, MatplotLib, AstroPy, GUI, win32com, etc.)"
+     
+           
     Languages:
       - name: Bengali
         summary: "Native speaker"
@@ -166,41 +163,16 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: Professor Stuart Bateman
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: PhD Supervisor
 
-      - name: Professor Jane Smith
+      - name: Associate Professor Brett Carter
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Supervisor at RMIT University
+        
+      - name: Associate Professor Amir Ameli
+        icon: fa-solid fa-thumbtack
+        reference: Postdoc supervisor at UMass Lowell
