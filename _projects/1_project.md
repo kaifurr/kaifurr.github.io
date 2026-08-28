@@ -1,18 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Effects of simulated space radiation on additively manufactured PEKK
+description: collaborative project between RMIT, CSIRO, ANSTO
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+SPENVIS simulations determined fluence of ions experienced by satellites in space.
+A particle accelerator was used to implant Fe ions and protons on 3D printed PEKK.
+Chemical and micromechanical properties remained unaffected due to irradiation.
+Additively manufactured PEKK showed potential for structural applications in space.
 
     ---
     layout: page
