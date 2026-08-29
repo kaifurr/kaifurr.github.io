@@ -1,9 +1,9 @@
-github_users:
+# github_users:
   - kaifurr
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
-github_repos:
+# github_repos:
   - carter-brett-a/ROO-Software
   - kaifurr/kaifurr.github.io
 
