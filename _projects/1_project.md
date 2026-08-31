@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Effects of simulated space radiation on additively manufactured PEKK
-description: collaborative project between RMIT, CSIRO, ANSTO
+title: 'Effects of simulated space radiation on additively manufactured PEKK'
+description: 'collaborative project between RMIT, CSIRO, ANSTO'
 img: assets/img/12.jpg
 importance: 1
 category: work
