@@ -90,13 +90,13 @@ cv:
         start_date: 2019
         end_date: 2023
 
-   Awards:
+    Awards:
       - title: "Best PhD Poster Award"
         authors:
           - "Kaifur Rashed, Abdullah Kafi, Ranya Simons, Stuart Bateman"
         date: 2022-11-01
         awarder: "RMIT STEM Early and Mid-Career Academics Symposium"
-        summary: "Interdisciplinary Connections and Opportunities” sponsored by Thermo Fisher Scientific. Awarded a cash prize and certificate in recognition of outstanding research and presentation skills.
+        summary: "Interdisciplinary Connections and Opportunities sponsored by Thermo Fisher Scientific. Awarded a cash prize and certificate in recognition of outstanding research and presentation skills."
 
       - title: "CSIRO Top Up Scholarship"
         authors:
