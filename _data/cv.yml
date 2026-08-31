@@ -90,7 +90,7 @@ cv:
         start_date: 2019
         end_date: 2023
 
-    Awards:
+   Awards:
       - title: "Best PhD Poster Award"
         authors:
           - "Kaifur Rashed, Abdullah Kafi, Ranya Simons, Stuart Bateman"
