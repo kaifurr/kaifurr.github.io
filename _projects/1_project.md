@@ -66,10 +66,6 @@ Results showed no significant changes in properties, indicating that PEKK has po
 <div class="caption">
     FT-IR Spectra of pristine and irradiated PEKK with 80 Gy Iron ions and 80 Gy Protons (a) full range and (b) fingerprint region between 1700/cm to 650/cm
 </div>
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-2 mt-md-0">
