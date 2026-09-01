@@ -5,9 +5,9 @@ description: 'collaborative project between RMIT, CSIRO, ANSTO'
 img: assets/img/a.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
-
+Highlights
 SPENVIS simulations determined fluence of ions experienced by satellites in space.
 A particle accelerator was used to implant Fe ions and protons on 3D printed PEKK.
 Chemical and micromechanical properties remained unaffected due to irradiation.
@@ -40,7 +40,6 @@ You can also put regular text between your rows of images, even citations {% cit
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/e.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -50,7 +49,6 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     High resolution spectra of MEX printed samples irradiated with absorbed doses of up to 80 Gy compared to pristine samples (a) O 1s Fe beam (b) O 1s proton beam (c) C 1s Fe beam (d) C 1s proton beam.
 </div>
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/f.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -73,5 +71,5 @@ Here's the code for the last row of images above:
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    On the left, plots of pristine and Fe ion irradiated specimen from surface to a depth of 20 μm (a) elastic modulus vs depth, (b) hardness vs depth. Right, plots of proton irradiated pristine and irradiated specimen between depths of 500 μm–1000 μm (a) elastic modulus vs depth, (b) hardness vs depth.
 </div>
