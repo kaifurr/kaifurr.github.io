@@ -7,7 +7,11 @@ importance: 1
 category: work
 related_publications: false
 ---
-Highlights
+</div>
+<div class="caption">
+    Highlights
+</div>
+
 SPENVIS simulations determined fluence of ions experienced by satellites in space.
 A particle accelerator was used to implant Fe ions and protons on 3D printed PEKK.
 Chemical and micromechanical properties remained unaffected due to irradiation.
