@@ -50,6 +50,15 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     High resolution spectra of MEX printed samples irradiated with absorbed doses of up to 80 Gy compared to pristine samples (a) O 1s Fe beam (b) O 1s proton beam (c) C 1s Fe beam (d) C 1s proton beam.
 </div>
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/f.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    FT-IR Spectra of pristine and irradiated PEKK with 80 Gy Iron ions and 80 Gy Protons (a) full range and (b) fingerprint region between 1700/cm to 650/cm
+</div>
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
