@@ -130,13 +130,6 @@ cv:
         url: https://link.springer.com/article/10.1007/s00170-023-11167-w
         summary: Conducted comprehensive analysis on variations in glass transition temperature, coefficient of thermal expansion, flexural, compression, and porosity properties by varying several process parameters.
 
-    Conference Presentations:
-      - title: "Polyaryl Ether Ketone (PAEK) Matrix Composites in Extrusion Based Additive Manufacturing for Space Applications"
-        authors:
-          - Kaifur Rashed, Abdullah Kafi, Ranya Simons, Mell Dell'Olio, Stuart Bateman
-        publisher: Asia Pacific International Conference on Additive Manufacturing (APICAM) 
-        releaseDate: 2023-06-30
-        summary: Oral presentation delivered at the Asia Pacific International Conference on Additive Manufacturing (APICAM) 2023, University of Sydney.
     Skills:
       - name: Materials Science
         icon: fa-solid fa-hashtag
