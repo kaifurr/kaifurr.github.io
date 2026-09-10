@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimization of PEKK in FDM to maximize tensile properties
-description: novel study that succeeded in printing PEEK without a heated chamber
+description: novel study that succeeded in printing PEKK without a heated chamber
 img: assets/img/tens.jpg
 importance: 2
 category: work
