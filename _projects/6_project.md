@@ -4,7 +4,7 @@ title: Polymer formulation for self-expanding catheter and beyond
 description: physiologically triggered shape memory polymer development and manufacturing of catheter
 img:
 importance: 4
-category: fun
+category: work
 ---
 <div class="caption">
     Highlights
