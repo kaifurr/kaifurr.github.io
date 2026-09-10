@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Optimization of PEKK in FDM to maximize tensile properties
+description: novel study that succeeded in printing PEEK without a heated chamber
+img: assets/img/tens.jpg
 importance: 2
 category: work
 giscus_comments: true
