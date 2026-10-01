@@ -7,10 +7,27 @@ importance: 2
 category: work
 giscus_comments: false
 ---
-
+<div class="caption">
+    Highlights
+</div>
 Taguchi DOE was used in this study to evaluate the effects of build orientation, infill pattern, number of contours and raster angle on flexural, compressive, dynamic mechanical, thermomechanical, porosity and surface properties of PEKK.
 
+<div class="caption">
+    Methods
+</div>
+All samples were printed using a custom-built high-temperature FFF printer equipped with a print bed that can be heated up to 120 °C. All specimens for each batch were printed in a single run as shown in the figure below.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/slice.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Samples printed for each batch with flat build orientation taken from Cura™ slicing software
+</div>
 
+<div class="caption">
+    Results
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
