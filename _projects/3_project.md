@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: PEKK matrix composites for material extrusion additive manufacturing
+description: PEKK reinforced with graphene, graphene oxide and boron carbide for space applications
+img: assets/img/cubes.jpg
+redirect: https://link.springer.com/article/10.1007/s00170-024-13026-8
 importance: 3
 category: work
 ---
