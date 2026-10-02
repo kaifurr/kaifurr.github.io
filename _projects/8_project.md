@@ -3,9 +3,9 @@ layout: page
 title: Optimization of FDM process parameters for PEKK
 description: DOE based study that analyzed flexural, compressive, dynamic mechanical, thermomechanical, porosity and surface properties
 img: assets/img/slice.jpg
+redirect: https://link.springer.com/article/10.1007/s00170-023-11167-w
 importance: 2
 category: work
-giscus_comments: false
 ---
 <div class="caption">
     Highlights
